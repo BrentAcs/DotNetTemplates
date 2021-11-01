@@ -24,3 +24,6 @@ Uninstall a Project
 
 To see all install templates:
 dotnet new --list
+
+Reference(s):
+https://docs.microsoft.com/en-us/dotnet/core/tutorials/cli-templates-create-item-template
