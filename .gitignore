@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Test folder specific to this solution.
+[Tt]est/
+
 # User-specific files
 *.suo
 *.user
